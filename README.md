@@ -1,5 +1,3 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/raw/main/Github%20Banner.png)
-
 
 <h1 align="center">Hi 👋, I'm Komal Singh</h1>
 <h3 align="center">Final Year Computer Science Student at IIITDM Jabalpur, MP</h3>
